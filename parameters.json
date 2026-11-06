@@ -1,0 +1,29 @@
+{
+  "parameters": [
+    "Amplitude",
+    "Frequency",
+    "Phase",
+    "Angle",
+    "Seed",
+    "Motion Blur",
+    "X Rand Amp",
+    "X Rand Freq",
+    "X Wave Amp",
+    "X Wave Freq",
+    "X Phase",
+    "Y Rand Amp",
+    "Y Rand Freq",
+    "Y Wave Amp",
+    "Y Wave Freq",
+    "Y Phase",
+    "Z Rand Amp",
+    "Z Rand Freq",
+    "Z Wave Amp",
+    "Z Wave Freq",
+    "Z Phase",
+    "Tilt Rand Amp",
+    "Tilt Rand Freq",
+    "Tilt Wave Amp",
+    "Tilt Wave Freq"
+  ]
+}
